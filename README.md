@@ -37,4 +37,4 @@ Este repositório contém a solução para o desafio de dados proposto pela MRV,
 ---
 
 📌 **Candidato**: André Fideles  
-📫 **Contato**: [Seu e-mail ou LinkedIn]
+📫 **Contato**: andrefideles@yahoo.com.br
